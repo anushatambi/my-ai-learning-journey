@@ -46,6 +46,30 @@ No shortcuts. No skipping. Just consistent daily progress.
 
 ---
 
+## ✅ Week 3–5 · Python Core for AI (A1)
+
+**Status:** Complete  
+**Topics covered:**
+- Variables, types, strings, lists, dicts, tuples, sets
+- Control flow — if/elif/else, for/while loops
+- Functions — args, *args, lambda, return
+- Error handling — try/except/raise/finally
+- File I/O — read/write text and JSON
+- Modules — os, math, random, datetime, dotenv
+- APIs — requests, GET/POST, status codes
+- First LLM API call (Groq — Llama 3.3 70B)
+- OOP — classes, inheritance, special methods
+
+**Built this week:**
+- `cli-chatbot` — [view project](https://github.com/anushatambi/ai-learning)
+
+**Assessments:** Mini Assessment 1 ✅ · Mini Assessment 2 ✅ 10/10 · Mini Assessment 3 ✅ 9/10
+
+**Key lesson:** Every AI app is just Python + API calls. Master the basics and every framework becomes easier.
+
+---
+
+
 ## 🛠️ Tools I Use Daily
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -62,4 +86,4 @@ No shortcuts. No skipping. Just consistent daily progress.
 
 ---
 
-*Updated weekly. Last update: Week 1–2.*
+*Updated weekly. Last update: Week 3–5.*
