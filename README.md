@@ -61,9 +61,16 @@ No shortcuts. No skipping. Just consistent daily progress.
 - OOP — classes, inheritance, special methods
 
 **Built this week:**
-- `cli-chatbot` — [view project](https://github.com/anushatambi/ai-learning)
+- `cli-chatbot`(Groq API + conversation history + JSON export) — [view project](https://github.com/anushatambi/ai-learning)
+-  Final Assessment (data processing, API integration, OOP)
 
 **Assessments:** Mini Assessment 1 ✅ · Mini Assessment 2 ✅ 10/10 · Mini Assessment 3 ✅ 9/10
+
+**Final Assessment: PASSED**
+- Part 1 MCQ: 28/30 (93%)
+- Task 1 — Data Processing: ✅ Passed
+- Task 2 — API Integration: ✅ Passed
+- Task 3 — OOP: ✅ Passed
 
 **Key lesson:** Every AI app is just Python + API calls. Master the basics and every framework becomes easier.
 
