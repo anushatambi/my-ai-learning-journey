@@ -76,9 +76,10 @@ No shortcuts. No skipping. Just consistent daily progress.
 
 ---
 
-✅ Week 6–7 · Advanced Python + Async (A1.2)
+### ✅ Week 6–7 · Advanced Python + Async (A1.2)
 
 **Status:** Complete
+
 **Topics covered:**
 - Decorators — @wraps, timing decorators, retry decorator factories (@retry(max_attempts, delay))
 - Generators — yield, lazy evaluation, streaming large files/data
@@ -100,7 +101,6 @@ No shortcuts. No skipping. Just consistent daily progress.
 
 **Key lesson:** Async isn't about doing things faster — it's about not wasting time waiting. Semaphores exist because "run everything at once" breaks the moment a real API has rate limits.
 
-
 ## 🛠️ Tools I Use Daily
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -117,4 +117,4 @@ No shortcuts. No skipping. Just consistent daily progress.
 
 ---
 
-*Updated weekly. Last update: Week 3–5.*
+*Updated weekly. Last update: Week 6-7.*
