@@ -76,6 +76,30 @@ No shortcuts. No skipping. Just consistent daily progress.
 
 ---
 
+✅ Week 6–7 · Advanced Python + Async (A1.2)
+
+**Status:** Complete
+**Topics covered:**
+- Decorators — @wraps, timing decorators, retry decorator factories (@retry(max_attempts, delay))
+- Generators — yield, lazy evaluation, streaming large files/data
+- Context managers — with statement, @contextmanager, class-based (__enter__/__exit__)
+- Type hints — Optional, Union, List, Dict, Python 3.10+ shorthand (|)
+- Async Python — async/await, asyncio.gather() for concurrency, asyncio.create_task()
+- Async in practice — asyncio.Semaphore for rate-limiting, error handling with return_exceptions=True
+
+**Built this week:**
+- Retry + timer decorators applied to a simulated flaky API call
+- Chunked data generator + context manager for tracking progress across a `with` block
+- Async batch API caller — semaphore-limited concurrency + graceful error handling (the exact pattern used for calling LLM APIs in batch)
+
+**Final Assessment: PASSED**
+- Part 1 MCQ: 16/20 (80%)
+- Task 1 — Decorators (@timer + @retry): ✅ Passed
+- Task 2 — Generator + Context Manager: ✅ Passed
+- Task 3 — Async (Semaphore + batch_fetch + error handling): ✅ Passed
+
+**Key lesson:** Async isn't about doing things faster — it's about not wasting time waiting. Semaphores exist because "run everything at once" breaks the moment a real API has rate limits.
+
 
 ## 🛠️ Tools I Use Daily
 
