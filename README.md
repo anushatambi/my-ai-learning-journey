@@ -76,7 +76,7 @@ No shortcuts. No skipping. Just consistent daily progress.
 
 ---
 
-### ✅ Week 6–7 · Advanced Python + Async (A1.2)
+## ✅ Week 6–7 · Advanced Python + Async (A1.2)
 
 **Status:** Complete
 
