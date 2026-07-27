@@ -92,6 +92,7 @@ No shortcuts. No skipping. Just consistent daily progress.
 - Retry + timer decorators applied to a simulated flaky API call
 - Chunked data generator + context manager for tracking progress across a `with` block
 - Async batch API caller — semaphore-limited concurrency + graceful error handling (the exact pattern used for calling LLM APIs in batch)
+- **Project 3: Async Price Monitor** — fetches prices from 5 mock APIs concurrently, tracks price history across check cycles, and alerts when any price changes by more than 10%
 
 **Final Assessment: PASSED**
 - Part 1 MCQ: 16/20 (80%)
